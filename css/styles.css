@@ -120,11 +120,6 @@ h1 {
     text-align: center;
   }
 
-  
-  body {
-    margin: 0;
-  }
-
   img {
     float: none;
     margin: auto;
@@ -160,10 +155,6 @@ h1 {
 
   .brand {
     text-align: center;
-  }
-
-  body {
-    margin: 0;
   }
 
   img {
@@ -205,10 +196,6 @@ h1 {
 
   h1 {
     font-size: 3rem;
-  }
-
-  body {
-    margin: 0;
   }
 
   img {
