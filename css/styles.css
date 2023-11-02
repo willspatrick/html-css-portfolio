@@ -119,12 +119,20 @@ h1 {
   .brand {
     text-align: center;
   }
+  body {
+    margin: 0;
+  }
 
+  .text {
+    padding-left: 40px;
+  }
+  
   img {
     float: none;
     margin: auto;
     width: inherit;
   }
+  
   .fa-brands {
     border-radius: 50%;
     border: none;
@@ -155,6 +163,14 @@ h1 {
 
   .brand {
     text-align: center;
+  }
+
+  body {
+    margin: 0;
+  }
+
+  .text {
+    padding-left: 40px;
   }
 
   img {
@@ -196,6 +212,14 @@ h1 {
 
   h1 {
     font-size: 3rem;
+  }
+
+  body {
+    margin: 0;
+  }
+
+  .text {
+    padding-left: 40px;
   }
 
   img {
