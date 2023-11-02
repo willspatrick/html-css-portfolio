@@ -7,6 +7,10 @@ body {
   margin: 0 100px;
 }
 
+a {
+  text-decoration: none;
+}
+
 img {
   float: left;
   height: 500px;
